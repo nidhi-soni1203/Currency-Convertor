@@ -19,5 +19,8 @@ to fetch real-time exchange rates and convert currencies.
 
 ![Currency Convertor](currency.png)
 
+## Live Demo
+[Click here to view the project](https://nidhi-currency-convertor.netlify.app/)
+
 ## Author
 Nidhi Soni

@@ -14,3 +14,10 @@ to fetch real-time exchange rates and convert currencies.
 - Convert between multiple currencies
 - Real-time exchange rates
 - Responsive design
+
+- ## Project Screenshot
+
+![Currency Convertor](currency.png)
+
+## Author
+Nidhi Soni
